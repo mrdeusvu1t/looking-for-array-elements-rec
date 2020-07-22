@@ -13,7 +13,7 @@ The task is to implement six methods using "for", "while" and "do" statements.
 
 ## Complete the Task
 
-You are allowed to use [Array.Length](https://docs.microsoft.com/en-us/dotnet/api/system.array.length) and [Array.IList.Item[Int32]](https://docs.microsoft.com/en-us/dotnet/api/system.array.system-collections-ilist-item) properties only. You are not allowed to use other static or instance methods of the [Array class](https://docs.microsoft.com/en-us/dotnet/api/system.array) or any extension method from [System.Linq namespace](https://docs.microsoft.com/en-us/dotnet/api/system.linq).
+You are allowed to use [Array.Length](https://docs.microsoft.com/en-us/dotnet/api/system.array.length) and [Array.IList.Item](https://docs.microsoft.com/en-us/dotnet/api/system.array.system-collections-ilist-item) properties only. You are not allowed to use other static or instance methods of the [Array class](https://docs.microsoft.com/en-us/dotnet/api/system.array) or any extension method from [System.Linq namespace](https://docs.microsoft.com/en-us/dotnet/api/system.linq).
 
 Also, avoid using loop statements (for, foreach, while, do..while) - only recursion calls. You can create your private [static methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members) or [local functions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/local-functions).
 
@@ -48,5 +48,5 @@ If a compiler error or warning message is not clear, [review errors details](htt
 ## See also
 
 * .NET API
-  * [String.Length Property](https://docs.microsoft.com/en-us/dotnet/api/system.string.length)
-  * [String.Chars Property](https://docs.microsoft.com/en-us/dotnet/api/system.string.chars)
+  * [Array.Length Property](https://docs.microsoft.com/en-us/dotnet/api/system.array.length)
+  * [Array.IList.Item Property](https://docs.microsoft.com/en-us/dotnet/api/system.array.system-collections-ilist-item)
