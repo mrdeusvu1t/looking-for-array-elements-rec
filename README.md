@@ -2,7 +2,7 @@
 
 An intermediate level task for practicing recursion and branches.
 
-The task is to implement six methods using "for", "while" and "do" statements.
+The task is to implement six methods using recursive algorithm.
 
 
 ## Get the Project
