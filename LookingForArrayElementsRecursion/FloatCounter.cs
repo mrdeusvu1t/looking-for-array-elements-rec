@@ -13,7 +13,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the <see cref="Array"/> elements that match the range criteria.</returns>
         public static int GetFloatsCount(float[] arrayToSearch, float[] rangeStart, float[] rangeEnd)
         {
-            // TODO #3. Implement the method using "for" statement.
+            // TODO #3. Implement the method using recursion.
             throw new NotImplementedException();
         }
 
@@ -28,7 +28,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the <see cref="Array"/> elements that match the range criteria.</returns>
         public static int GetFloatsCount(float[] arrayToSearch, float[] rangeStart, float[] rangeEnd, int startIndex, int count)
         {
-            // TODO #4. Implement the method using "do..while" statements.
+            // TODO #4. Implement the method using recursion.
             throw new NotImplementedException();
         }
     }

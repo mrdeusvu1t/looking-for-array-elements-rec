@@ -12,7 +12,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the <see cref="Array"/> elements that match the range criteria.</returns>
         public static int GetDecimalsCount(decimal[] arrayToSearch, decimal[][] ranges)
         {
-            // TODO #5. Implement the method using "do..while" statements.
+            // TODO #5. Implement the method using recursion.
             throw new NotImplementedException();
         }
 
@@ -26,7 +26,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the <see cref="Array"/> elements that match the range criteria.</returns>
         public static int GetDecimalsCount(decimal[] arrayToSearch, decimal[][] ranges, int startIndex, int count)
         {
-            // TODO #6. Implement the method using "for" statement.
+            // TODO #6. Implement the method using recursion.
             throw new NotImplementedException();
         }
     }

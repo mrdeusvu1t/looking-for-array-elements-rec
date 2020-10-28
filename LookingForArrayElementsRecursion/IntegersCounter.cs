@@ -12,7 +12,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the elements that are in <paramref name="elementsToSearchFor"/> <see cref="Array"/>.</returns>
         public static int GetIntegersCount(int[] arrayToSearch, int[] elementsToSearchFor)
         {
-            // TODO #1. Implement the method using "for" statement.
+            // TODO #1. Implement the method using recursion.
             throw new NotImplementedException();
         }
 
@@ -26,7 +26,7 @@ namespace LookingForArrayElementsRecursion
         /// <returns>The number of occurrences of the elements that are in <paramref name="elementsToSearchFor"/> <see cref="Array"/>.</returns>
         public static int GetIntegersCount(int[] arrayToSearch, int[] elementsToSearchFor, int startIndex, int count)
         {
-            // TODO #2. Implement the method using "while" statement.
+            // TODO #2. Implement the method using recursion.
             throw new NotImplementedException();
         }
     }
